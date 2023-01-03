@@ -1,0 +1,2 @@
+select * from MtDocuments ORDER by 1 DESC
+select * from vw_OnlyGenUnit where SoUnitId in (22,20,23)
